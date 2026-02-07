@@ -103,7 +103,7 @@ authentication, and an intuitive interface.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/programmerrakibul/labora-client.git
+   git clone https://github.com/CyberXCore/Nexira-client.git
    cd Nexira-client
    ```
 
@@ -208,12 +208,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-For any inquiries or feedback, reach out at:
-[rakibul00206@gmail.com](mailto:rakibul00206@gmail.com)
-
 ---
 
 <div align="center">
-  <p>Built with ❤️ by <a href="https://github.com/programmerrakibul">Rakibul</a></p>
+  <p>Built with ❤️ by <a href="https://github.com/CyberXCore">CyberXCore</a></p>
   <p>⭐ Star this repo if you find it helpful!</p>
 </div>
